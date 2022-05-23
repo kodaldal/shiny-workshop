@@ -1,0 +1,13 @@
+name: shiny-app
+title: shiny-app
+username:
+account: ecgaox-eunseob-ko
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6355387
+bundleId: 5935245
+url: https://ecgaox-eunseob-ko.shinyapps.io/shiny-app/
+when: 1653313579.95153
+lastSyncTime: 1653313579.95154
+asMultiple: FALSE
+asStatic: FALSE
